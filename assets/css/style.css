@@ -1650,7 +1650,8 @@ p {
   padding-top: 30px;
 }
 .single-pricing .pricing-btn .main-btn {
-  border: 2px solid rgba(24, 99, 255, 0.1);
+  background-color: rgba(24, 99, 255, 0.85);
+
 }
 .single-pricing .pricing-btn .main-btn:hover {
   -webkit-box-shadow: 0px 8px 16px 0px rgba(72, 127, 255, 0.1);
