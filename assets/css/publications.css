@@ -38,4 +38,8 @@
     margin-left: auto;
     margin-right: 0;
 }
+.responsive {
+    max-width: 100%;
+    height: auto;
+  }
 
