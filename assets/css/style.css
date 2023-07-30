@@ -884,23 +884,23 @@ p {
   margin-top: 60px;
 }
 .header-content .header-title {
-  font-size: 40px;
+  font-size: 30px;
   color: #fff;
   text-transform: uppercase;
 }
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   .header-content .header-title {
-    font-size: 60px;
+    font-size: 55px;
   }
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header-content .header-title {
-    font-size: 54px;
+    font-size: 49px;
   }
 }
 @media (max-width: 767px) {
   .header-content .header-title {
-    font-size: 30px;
+    font-size: 25px;
   }
 }
 .header-content .sub-title {
